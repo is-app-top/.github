@@ -5,3 +5,5 @@
 We are a free subdomain service providing sweet-looking `.is-app.top` subdomains for developers and makers!
 
 Head over to our [GitHub repository](https://github.com/is-app-top/is-app-top/register) to create your own subdomain!
+
+**Powered by Cloudflare, Secured by DNSSEC, Dedicated to Developers.**
